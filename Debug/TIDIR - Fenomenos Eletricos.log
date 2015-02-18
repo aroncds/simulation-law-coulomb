@@ -1,0 +1,31 @@
+﻿Build started 05/06/2014 18:13:39.
+     1>Project "C:\Users\Aron\documents\visual studio 2013\Projects\TIDIR - Fenomenos Eletricos\TIDIR - Fenomenos Eletricos\TIDIR - Fenomenos Eletricos.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (TIDIR - Fenomenos Eletricos.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Aron\documents\visual studio 2013\Projects\TIDIR - Fenomenos Eletricos\Debug\TIDIR - Lei de Coulomb.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\OpenGL\Basic\lib glew32.lib glew32s.lib glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Aron\documents\visual studio 2013\Projects\TIDIR - Fenomenos Eletricos\Debug\TIDIR - Lei de Coulomb.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Aron\documents\visual studio 2013\Projects\TIDIR - Fenomenos Eletricos\Debug\TIDIR - Lei de Coulomb.lib" /MACHINE:X86 Debug\Arrow.obj
+         Debug\Button.obj
+         Debug\Camera.obj
+         Debug\Carga.obj
+         Debug\Circle.obj
+         Debug\EletricField.obj
+         Debug\Event.obj
+         Debug\Geometry.obj
+         Debug\Graphic.obj
+         Debug\Hud.obj
+         Debug\Input.obj
+         Debug\Line.obj
+         Debug\Main.obj
+         Debug\ManagerAsset.obj
+         Debug\maths_funcs.obj
+         Debug\Node.obj
+         Debug\Object.obj
+         Debug\Point.obj
+         Debug\Quad.obj
+         Debug\Sprite.obj
+         Debug\Text.obj
+         TIDIR - Fenomenos Eletricos.vcxproj -> C:\Users\Aron\documents\visual studio 2013\Projects\TIDIR - Fenomenos Eletricos\Debug\TIDIR - Lei de Coulomb.exe
+     1>Done Building Project "C:\Users\Aron\documents\visual studio 2013\Projects\TIDIR - Fenomenos Eletricos\TIDIR - Fenomenos Eletricos\TIDIR - Fenomenos Eletricos.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.89
